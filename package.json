@@ -1,0 +1,15 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "this is node intro project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashant",
+  "license": "ISC",
+  "dependencies": {
+    "cartoon-avatar": "^1.0.2",
+    "superheroes": "^3.0.0"
+  }
+}
